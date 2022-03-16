@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app",
+    "SUN": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Es-YES-Ye/node.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "younsun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Es-YES-Ye/node/issues"
+  },
+  "homepage": "https://github.com/Es-YES-Ye/node#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
